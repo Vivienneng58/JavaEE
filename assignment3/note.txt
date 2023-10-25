@@ -1,0 +1,3 @@
+出现assertNotNull(bookService.getBookDao())错误。
+检查了很多次，试了很多解决方法都没办法解决。
+把assertNotNull换去assertNull就跑得到，但是代码是错误的。
